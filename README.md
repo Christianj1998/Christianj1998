@@ -1,12 +1,25 @@
-# Hey all! <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30%" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
+<h1 align="center">
+Hi, I'm Christian Gutierrez!
+	<a href="https://github.com/Bouaskaoun" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
 
-![image]()
+
+[![GitHub followers](https://img.shields.io/github/followers/Christianj1998.svg?style=social&label=Followers)](https://github.com/Christianj1998?tab=followers)
 
 
-[![GitHub followers](https://img.shields.io/github/followers/Christianj1998.svg?style=social&label=Followers)](https://github.com/AvidCoder101?tab=followers)
+### My Projects ✨:
+
+
+<a href="https://github.com/Davekibh/Quiz-Admin-App">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Christianj1998&repo=Quiz-Admin-App&theme=tokyonight" />
+</a>
+<!-- End projects -->
 
 
 <!--- stats & Trophy (start) -->
+<h2 align="center"> Github Activity ✔:</h2>
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
@@ -26,3 +39,16 @@
 </tr>
 </table>
 <!--- stats (end) -->
+
+
+
+<!-- retro visitor counter --> 
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/Christianj1998/count.svg" />  
+</p>
+   
+
+
