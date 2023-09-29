@@ -11,10 +11,11 @@ Hi, I'm Christian Gutierrez!
 
 ### My Projects ✨:
 
-
-<a href="https://github.com/Christianj1998/aplicacionWedPresupuesto">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Christianj1998&repo=Quiz-Admin-App&theme=tokyonight" />
+<p>	
+<a href="https://github.com/Christianj1998/aplicacionWedPresupuesto.git">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Christianj1998&repo=aplicacionWedPresupuesto&theme=tokyonight" />
 </a>
+</p>
 <!-- End projects -->
 
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Christianj1998" /></p>
