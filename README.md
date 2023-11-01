@@ -8,7 +8,7 @@ Hi, I'm Christian Gutierrez!
 
 [![GitHub followers](https://img.shields.io/github/followers/Christianj1998.svg?style=social&label=Followers)](https://github.com/Christianj1998?tab=followers)
 
-
+<!-- start -->
 ### My Projects ✨:
 
 <p>	
@@ -16,6 +16,12 @@ Hi, I'm Christian Gutierrez!
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Christianj1998&repo=aplicacionWedPresupuesto&theme=tokyonight" />
 </a>
 </p>
+<spam>
+	<a href="https://github.com/Christianj1998/wedAppControlEstudiantes.git">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Christianj1998&repo=wedAppControlEstudiantes&theme=tokyonight" />
+
+</a>
+</spam>
 <!-- End projects -->
 
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Christianj1998" /></p>
