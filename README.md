@@ -11,21 +11,19 @@ Hi, I'm Christian Gutierrez!
 <!-- start -->
 ### My Projects ✨:
 
-<p>	
-<a href="https://github.com/Christianj1998/aplicacionWedPresupuesto.git">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Christianj1998&repo=aplicacionWedPresupuesto&theme=tokyonight" />
-</a>
-</p>
-<spam>
-	<a href="https://github.com/Christianj1998/wedAppControlEstudiantes.git">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Christianj1998&repo=wedAppControlEstudiantes&theme=tokyonight" />
+<a href="https://github.com/Christianj1998/aplicacionWedPresupuesto.git"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Christianj1998&repo=aplicacionWedPresupuesto&theme=tokyonight"  /></a>
 
-</a>
-</spam>
+<a href="https://github.com/Christianj1998/wedAppControlEstudiantes.git"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Christianj1998&repo=wedAppControlEstudiantes&theme=tokyonight" /></a>
+	
+
 <!-- End projects -->
+<hr>
 
-<p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Christianj1998" /></p
-																				   
+<!-- start cursos -->
+<p><img align="right" src="UC-6856d328-a91d-486e-a7c1-7b94a0cc14e1.jpg" alt="Christianj1998" height='300' width='400' /></p
+
+
+<!-- End cursos -->	 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="left"><a href="#" target="blank"><img align="center" 							     src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/twitter.svg" alt="subhadeepzilong" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center"							src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="subhadeep-chakraborty-b341a8191" height="30" width="40" /></a
