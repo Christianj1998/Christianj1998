@@ -11,7 +11,7 @@ Hi, I'm Christian Gutierrez!
 <!-- start -->
 ### My Projects ✨:
 
-<a href="https://github.com/Christianj1998/App_presupuesto.git"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Christianj1998&repo=aplicacionWedPresupuesto&theme=tokyonight"  /></a>
+<a href="https://github.com/Christianj1998/App_presupuesto.git"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Christianj1998&repo=App_presupuesto&theme=tokyonight"  /></a>
 
 <a href="https://github.com/Christianj1998/wedAppControlEstudiantes.git"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Christianj1998&repo=wedAppControlEstudiantes&theme=tokyonight" /></a>
 	
